@@ -1,0 +1,9 @@
+.carrosel img {
+    height: 700px; 
+    object-fit: cover;
+    border: 5px solid black;
+}
+
+#corpo {
+    background-color: black;
+}
